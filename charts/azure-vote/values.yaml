@@ -1,8 +1,8 @@
   
 # Azure Vote UI controll
 title: "Azure Vote App"
-value1: Superman Sandeep
-value2: Batman Bapi
+value1: Sandeep
+value2: Bapi
 
 # Service controlls
 serviceNameFront: azure-vote-front
